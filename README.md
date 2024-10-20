@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/GitHub_Actions-563D7C?logo=github-actions&logoColor=white"/>
 </p>
 
-<p>In this comprehensive data science and machine learning project, I developed a model to predict house prices in Bangalore After fine-tuning the hyperparameters and conducting cross-validation, I discovered that Linear Regression was the most effective approach. The model achieved an impressive 86% accuracy in predicting prices. I utilized the Bangalore prices dataset sourced from Kaggle for this analysis.</p>
+<p>In this comprehensive data science and machine learning project, I developed a model to predict house prices in Bangalore After fine-tuning the hyperparameters and conducting cross-validation, I discovered that Linear Regression was the most effective approach. The model achieved an impressive <b>86%</b> accuracy in predicting prices. I utilized the Bangalore prices dataset sourced from Kaggle for this analysis.</p>
 
 ## Contents
 - [Installation](#installation)
@@ -25,7 +25,7 @@
 - [Contribute](#contribute-)
 - [License](#license-)
 
-# here Come image of web
+![](https://github.com/fasinfasi/Real-Estate-Prediction/blob/main/web_ui_img.png?raw=true)
 
 ## Dive to details
 Hope you interested on this, Follow me 👞:-
@@ -140,7 +140,7 @@ By following these guidelines, you can help improve this project and contribute 
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 💖 Thank you for checking out this project! We hope you find it useful and easy to integrate into your workflow.
