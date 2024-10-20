@@ -140,7 +140,7 @@ By following these guidelines, you can help improve this project and contribute 
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
 
 
 💖 Thank you for checking out this project! We hope you find it useful and easy to integrate into your workflow.
